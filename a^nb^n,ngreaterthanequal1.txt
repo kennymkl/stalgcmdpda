@@ -1,0 +1,14 @@
+a,b
+z,a,A
+qs,q1,qa,q2,q3
+qs
+q3
+qs,~,~|q1,z
+q1,a,z|q1,A
+q1,a,A|qa,A
+q1,a,a|qa,a
+qa,~,~|q1,a
+q1,b,a|q2,~
+q2,b,a|q2,~
+q1,b,A|q3,~
+q2,b,A|q3,~

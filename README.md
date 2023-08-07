@@ -3,6 +3,13 @@
 
 This is a deterministic pushdown automata simulator program. The DPDA recognizes DCFLs. 
 
+Made by:
+Longno, Darren
+Lu, Juhlia
+Villarama, Kenn
+
+STALGCM S13
+
 ## How to Use
 
 When it comes to the input and output format of the simulation
@@ -51,3 +58,5 @@ You need to install the following dependencies in order to run the program in yo
 - tkinter
 - customtkinter
 
+pip install tkinter
+pip install customtkinter
